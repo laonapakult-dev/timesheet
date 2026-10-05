@@ -1,4 +1,4 @@
-   const firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyAIafYqqP3I5C2LLXRR-MKQA2rD9I038ZM",
   authDomain: "virach-timesheet-935be.firebaseapp.com",
   projectId: "virach-timesheet-935be",
